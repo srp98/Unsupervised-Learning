@@ -8,3 +8,6 @@ Clustering Algorithms based on centroids namely K-Means Clustering, Agglomerativ
 - scipy
 - matplotlib
 
+## Information
+1. K-Means Clustering done with smart convergence for faster processing
+2. 
